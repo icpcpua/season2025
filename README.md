@@ -85,10 +85,10 @@ This level focuses on advanced graph algorithms, shortest path algorithms, disjo
 -🔧 [Graph Theory - Kruskal Algorithm (Arabic)](https://youtu.be/HQ5ANfzSDn0?si=7hP63XBzac8aaCv2)
 -🔧 [Graph Theory - Prim Algorithm (Arabic)](https://youtu.be/tcQky6O1em8?si=EnTZr1f8BTjh1z77)
 
-#### Session 7: Take a Tour! 🌍
--🌀 [Graph Theory - Euler Tour (Arabic)](https://www.youtube.com/live/p8MFuDxvnuo?si=xjBEUMNVJMg_MvRg)
+#### 📌 Session 7: Take a Tour around the points!
+-🌍 [Graph Theory - Euler Tour (Arabic)](https://www.youtube.com/live/p8MFuDxvnuo?si=xjBEUMNVJMg_MvRg)
 
-#### Session 8: Bridges are strong as you can summon tankers on them
+#### 📌Session 8: Bridges are strong as you can summon tankers on them
 - 🌉 [Strongly Connected Components](https://www.youtube.com/watch?v=R6uoSjZ2imo)
 - 🌉 [Articulation Points](https://www.youtube.com/watch?v=j1QDfU21iZk)
 - 🌉 [Bridges](https://www.youtube.com/watch?v=Rhxs4k6DyMM)
