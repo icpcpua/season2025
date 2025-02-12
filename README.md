@@ -88,10 +88,10 @@ This level focuses on advanced graph algorithms, shortest path algorithms, disjo
 #### Session 7: Take a Tour! 🌍
 -🌀 [Graph Theory - Euler Tour (Arabic)](https://www.youtube.com/live/p8MFuDxvnuo?si=xjBEUMNVJMg_MvRg)
 
-#### Session 8: Bridges are strong as you can summon tankers on them 🌉
-- [Strongly Connected Components](https://www.youtube.com/watch?v=R6uoSjZ2imo)
-- [Articulation Points](https://www.youtube.com/watch?v=j1QDfU21iZk)
-- [Bridges](https://www.youtube.com/watch?v=Rhxs4k6DyMM)
+#### Session 8: Bridges are strong as you can summon tankers on them
+- 🌉 [Strongly Connected Components](https://www.youtube.com/watch?v=R6uoSjZ2imo)
+- 🌉 [Articulation Points](https://www.youtube.com/watch?v=j1QDfU21iZk)
+- 🌉 [Bridges](https://www.youtube.com/watch?v=Rhxs4k6DyMM)
 
 ---
 
