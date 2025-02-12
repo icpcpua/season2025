@@ -1,3 +1,5 @@
+![ICPC PUA Training Banner](assets/banner.png)
+
 # ICPC PUA Training Program For 2025 Season! 🏆
 
 ## 📚 Training Sheets:
