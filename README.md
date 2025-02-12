@@ -2,7 +2,7 @@
 
 # ICPC PUA Training Program For 2025 Season! 🏆
 
-## 📚 Training Sheets:
+## 📚 Training Sheets
 - [ICPC Assiut](https://codeforces.com/group/MWSDmqGsZm/contests)
 - [NeetCode](https://neetcode.io/roadmap)
 - [Enhanced Interview Sheet - DR. Mustafa Saad](https://docs.google.com/spreadsheets/d/10cdF-FZrZiug3M9JIQ6neH7pris8f4lkpdzJSPAU8dE/edit?gid=0#gid=0)
