@@ -10,89 +10,89 @@
 - [CP Sheet - DR. Mustafa Saad](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=855203541#gid=855203541) this sheet has 7 levels: A — B — C1 — C2 — D1 — D2 — D3.
   Ignore the first 3 levels if you passed the "Enhanced Interview Sheet" and start from C2. 
 
-## 🎯 Training: Level 0
-At this level, you will get familiar with the fundamentals of C++ and competitive programming. By the end, you will understand basic syntax, loops, conditions, arrays, strings, and how to analyze time complexity.
-> "First, solve the problem. Then, write the code." — John Johnson
+### Resources Used
+[Post With ALL the resources](https://codeforces.com/group/OnqQS48TMT/blog/entry/14521)
 
-### Sessions:
-#### 📌 Session 1: Head First With Basics
-- 🔢 [Intro to C++ (Arabic)](https://www.youtube.com/watch?v=E1gCgPIzYxk)
-- 🔢 [More on C++ Basics (Arabic)](https://www.youtube.com/watch?v=r1QccJLFdaE)
-- 🔢 [Conditions & Loops in C++ (Arabic)](https://www.youtube.com/watch?v=j7u4dlGYAWU)
+## 📚 Level 1: Foundations
+> A comprehensive introduction to competitive programming fundamentals. This level covers C++ basics, data structures, algorithms, and essential problem-solving techniques. Perfect for beginners looking to build a strong foundation.
 
-#### 📌 Session 2: More Important Basics
-- 📤 [Arrays & Strings in C++ (Arabic)](https://www.youtube.com/watch?v=gp_836SEvnk)
-- ⚡ [Overflow and type casting (Arabic)](https://www.youtube.com/watch?v=DsHN4NWNNvY)
-    
-#### 📌 Session 3: No Limits Except Time Limits
-- ⏳ [Complexity of Algorithms I (Arabic)](https://www.youtube.com/watch?v=hYalOGs1_Og)
-- ⏳ [Complexity of Algorithms II (Arabic)](https://www.youtube.com/watch?v=dZiZ0zsMBNQ)
+### 🔰 Session 1: Getting Started with C++
+- [Intro to C++ (Arabic)](https://www.youtube.com/watch?v=E1gCgPIzYxk)
+- [More on C++ Basics (Arabic)](https://www.youtube.com/watch?v=r1QccJLFdaE)
+- [Conditions & Loops in C++ (Arabic)](https://www.youtube.com/watch?v=j7u4dlGYAWU)
 
-#### 📌 Session 4: More about Data Structures
-- 📊 [Vector, struct, pair](https://www.youtube.com/watch?v=pvTg_7tm9Ek&list=PLIFVa-hDlNlcRtB5-zdzRrOkCy64dNKW6&index=4&t=0s)
-- ⌨️ [Scanf, printf](https://www.youtube.com/watch?v=FRmQai0I-po&list=PLIFVa-hDlNlcRtB5-zdzRrOkCy64dNKW6&index=2&t=0s)
+### 📊 Session 2: Data Structures & Complexity Analysis
+- [Vector, struct, pair](https://www.youtube.com/watch?v=pvTg_7tm9Ek&list=PLIFVa-hDlNlcRtB5-zdzRrOkCy64dNKW6&index=4&t=0s)
+- [Arrays & Strings in C++ (Arabic)](https://www.youtube.com/watch?v=gp_836SEvnk)
+- [Overflow and type casting (Arabic)](https://www.youtube.com/watch?v=DsHN4NWNNvY)
+- [Complexity of Algorithms I (Arabic)](https://www.youtube.com/watch?v=hYalOGs1_Og)
+- [Complexity of Algorithms II (Arabic)](https://www.youtube.com/watch?v=dZiZ0zsMBNQ)
 
-#### 📌 Session 5: Sort your Thoughts
-- 🔄 [Sorting - Compare functions (Arabic)](https://www.youtube.com/watch?v=_9Rrq0q51BQ&feature=youtu.be&list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk)
+### 🗃️ Session 3: Advanced Data Structures I
+- [Frequency array (Arabic)](https://www.youtube.com/watch?v=kQGTjql8WjI)
+- [Data structures - Map (Arabic)](https://www.youtube.com/watch?v=6Lf9llfyHjE)
+- [Data structures - Set (Arabic)](https://www.youtube.com/watch?v=u9MlGkEwf_4)
 
-## ⚡ Training: Level 1
-Here, you will learn problem-solving techniques involving frequency arrays, prefix sums, stacks, queues, sets, maps, sliding windows, binary search, number theory, recursion, backtracking, and bitwise operations. You will be able to solve basic and intermediate-level problems efficiently.
-> "The key to success is to focus on goals, not obstacles." — Unknown
+### 📦 Session 4: Advanced Data Structures II
+- [Data structures - Stack (Arabic)](https://www.youtube.com/watch?v=cBmy4x0G0G8)
+- [Data structures - Queue (Arabic)](https://www.youtube.com/watch?v=Z0nYHbhqwgU)
 
-### Sessions:
-#### 📌 Session 1: Counting Matters!
-- ♻️ [Frequency array (Arabic)](https://www.youtube.com/watch?v=kQGTjql8WjI)
-  
-#### 📌 Session 2: Summing Things Up 
-- ➕ [Prefix sum (Arabic)](https://www.youtube.com/watch?v=fQwD4-FxQBU)
-- ➖ [Partial sum (Arabic)](https://www.youtube.com/watch?v=vF78qRAAyx4)
-  
-#### 📌 Session 3: Please Stand in the LINE 
-- 📶 [Data structures - Stack (Arabic)](https://www.youtube.com/watch?v=cBmy4x0G0G8)
-- 🖇️ [Data structures - Queue (Arabic)](https://www.youtube.com/watch?v=Z0nYHbhqwgU)
+### 🔄 Session 5: Two-Pointers & Sliding Window
+- [Two pointers technique (Arabic)](https://www.youtube.com/watch?v=n-Xwrr8RFQ0)
 
-#### 📌 Session 4: Oh Really! Again? More About Data Structures...
-- 📦 [Data structures - Set (Arabic)](https://www.youtube.com/watch?v=u9MlGkEwf_4&feature=youtu.be)
-- 📦 [Data structures - Map (Arabic)](https://www.youtube.com/watch?v=6Lf9llfyHjE&feature=youtu.be)
+### 🔍 Session 6: Binary Search
+- [Binary Search (Arabic)](https://www.youtube.com/watch?v=qrwupQ2_iJo&t=900s)
 
-#### 📌 Session 5: The Sun is Too Harsh, Slide This Window Please
-- 🔄 [Two pointers technique](https://www.youtube.com/watch?v=n-Xwrr8RFQ0)
+### 🔢 Session 7: Number Theory
+- [Modular Arithmetic](https://www.youtube.com/live/9sqvjnvuLtY)
+- [Number Theory - Primes (Arabic)](https://www.youtube.com/watch?v=VZBfW08ECgA)
+- [Factorization](https://youtu.be/-5ApOQDhBtU)
+- [Number Theory - Fib, GCD, LCM, Pow (Arabic)](https://www.youtube.com/watch?v=YklnFXpq0ZE)
 
-## 🗺️ Training: Level 2
-This level focuses on advanced graph algorithms, shortest path algorithms, disjoint set union, minimum spanning trees, topological sorting, and Euler tours. By the end of this level, you will be comfortable solving complex algorithmic problems using graph theory.
-> "It's not that I'm so smart, it's just that I stay with problems longer." — Albert Einstein
+### 🎲 Session 8: Combinatorics
+- [Counting Principles (Arabic)](https://www.youtube.com/watch?v=sr6WgCLcgVM)
+- [Permutations and Combinations - 1 (Arabic)](https://www.youtube.com/watch?v=9wvqNeX_JnI)
+- [Permutations and Combinations - 2 (Arabic)](https://www.youtube.com/watch?v=8V_xhaPpjmM)
 
-#### 📌Session 1: Mapping the Unseen
+### 🔁 Session 9: Recursion & Backtracking
+- [Recursion](https://youtu.be/hyk46UmJPS4)
+- [Backtracking](https://youtu.be/hLXVhRzqq18)
+
+### 🔧 Session 10: Bit Manipulation
+- [Bitwise Operations (Arabic)](https://www.youtube.com/watch?v=sK0uVbs_J6Y)
+- [C++ Programming 4 Competitions - Bits (Arabic)](https://www.youtube.com/watch?v=ldwGf-iVsdU)
+- [Bitset (Arabic)](https://www.youtube.com/watch?v=mTtlfH9AqNU)
+
+## 📈 Level 2: Advanced Graph Theory
+> Deep dive into graph algorithms and dynamic programming. This level focuses on advanced problem-solving techniques using graphs, essential for competitive programming competitions.
+
+### Resources Used
+#### Videos
+- [Dr Mustafa Saad: Graph Theory](https://www.youtube.com/playlist?list=PLPt2dINI2MIb4OXlJ_EEwIDV9WVUpRQ5K)
+
+#### Problems
+- [Al-Azhar Graph sheet](https://vjudge.net/group/aic-20-level-2-training-ecpc)
+- [Neetcode 150](https://neetcode.io/roadmap)
+
+### 🕸️ Session 11: Graph Basics
 - [Graph Representation (Arabic)](https://www.youtube.com/watch?v=pOLUrNoEAzk)
+- [BFS (Arabic)](https://www.youtube.com/watch?v=PbcIjZ1Pm9w)
 
-#### 📌Session 2: Search Like a Pro
-- 🔍 [Graph - DFS (Arabic)](https://www.youtube.com/watch?v=LvyXRQeEue0)
+### 🌳 Session 12: Depth-First Search
+- [DFS (Arabic)](https://www.youtube.com/watch?v=LvyXRQeEue0)
 
-#### 📌Session 3: Finding the Shortest Way
-- 📊 [Graph - BFS (Arabic)](https://www.youtube.com/watch?v=PbcIjZ1Pm9w)
+### 📊 Session 13: Dynamic Programming
+- [Topic Stream Mashup: Dynamic Programming](https://codeforces.com/gym/302977)
+- [Dynamic Programming I (Arabic)](https://www.youtube.com/watch?v=TNgPT91sn90)
 
-#### 📌Session 4: Shortest Paths & Algorithms
-- 💡 [Graph - Dijkstra 1](https://youtu.be/6GzxGabB5MI?feature=shared)
-- 💡 [Graph - Dijkstra 2](https://youtu.be/Deh1X1FFTxA?si=Rd0ovmAD8S9Is5Bk)
-- 🏁[Graph Theory - Floyd Algorithm (Arabic)](https://youtu.be/ZIJLCVn4KzQ?si=marBccOxDaNS9j0J)
-- 🏁[Graph Theory - Bellman-Ford (Arabic) - 1](https://youtu.be/g4CWwTOGxdM?si=EKEh_ZKo0GRBMncd)
-- 🏁[Graph Theory - Bellman-Ford (Arabic) - 2](https://www.youtube.com/live/6ZkzwwpIYcY?si=5YGk_GlfvWqBR3VE)
-
-#### 📌Session 5: Connecting Components
-- ⛏ [DSU (Arabic)](https://youtu.be/-jWBvgMw44U?si=gqEDLjiO7oEln7jt)
-
-#### 📌Session 6: Climb The Minimum Spanning Trees
--🔧 [Graph Theory - Kruskal Algorithm (Arabic)](https://youtu.be/HQ5ANfzSDn0?si=7hP63XBzac8aaCv2)
--🔧 [Graph Theory - Prim Algorithm (Arabic)](https://youtu.be/tcQky6O1em8?si=EnTZr1f8BTjh1z77)
-
-#### 📌 Session 7: Take a Tour around the points!
--🌍 [Graph Theory - Euler Tour (Arabic)](https://www.youtube.com/live/p8MFuDxvnuo?si=xjBEUMNVJMg_MvRg)
-
-#### 📌Session 8: Bridges are strong as you can summon tankers on them
-- 🌉 [Strongly Connected Components](https://www.youtube.com/watch?v=R6uoSjZ2imo)
-- 🌉 [Articulation Points](https://www.youtube.com/watch?v=j1QDfU21iZk)
-- 🌉 [Bridges](https://www.youtube.com/watch?v=Rhxs4k6DyMM)
-
----
+### 🛣️ Session 14: Advanced Graph Algorithms
+- [Floyd Algorithm (Arabic)](https://youtu.be/ZIJLCVn4KzQ)
+- [Dijkstra (Arabic)](https://youtu.be/Deh1X1FFTxA)
+- [Bellman-Ford - Part 1 (Arabic)](https://youtu.be/g4CWwTOGxdM)
+- [Bellman-Ford - Part 2 (Arabic)](https://www.youtube.com/live/6ZkzwwpIYcY)
 
 By the end of this training program, you will have built a strong foundation in competitive programming, mastered key problem-solving techniques, and developed the ability to tackle challenging algorithmic problems efficiently! 💥
+
+
+
+
