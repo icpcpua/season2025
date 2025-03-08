@@ -71,7 +71,7 @@
 - [Dr Mustafa Saad: Graph Theory](https://www.youtube.com/playlist?list=PLPt2dINI2MIb4OXlJ_EEwIDV9WVUpRQ5K)
 
 #### Problems
-- [Al-Azhar Graph sheet](https://vjudge.net/group/aic-20-level-2-training-ecpc)
+- [Al-Azhar Graph sheet](https://docs.google.com/spreadsheets/d/1ktBBshUFulQWt9mP6MEtJtNjROjFgvxQSHDzo0a3D7U/edit?gid=0#gid=0)
 - [Neetcode 150](https://neetcode.io/roadmap)
 
 ### 🕸️ Session 11: Graph Basics
