@@ -53,7 +53,7 @@
 - Additional resources and problem sets will be provided for each topic
 - Trainers are available on Discord for questions between sessions
 - Practice problems should be completed before the next session
-- Follow any updates on he assignments or training timeline [Here!](https://docs.google.com/spreadsheets/d/1h1-LNTE3nNuyd0LHTAQxpSYO1YK5f-gk/edit?gid=788019053#gid=788019053)
+- Follow any updates on he assignments or training timeline [Here!](https://docs.google.com/spreadsheets/d/10ZXlM_pC_UCzUdDy3D4StZN4kxTtrDnJc7-gMaJJSdE/edit?usp=sharing)
 
 ## 🎯 Program Goals
 - Build strong foundation in competitive programming
